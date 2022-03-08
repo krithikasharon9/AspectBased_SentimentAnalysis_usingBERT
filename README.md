@@ -8,7 +8,9 @@ These are the steps done in this project:-
 4. Prediction 
 5. Evaluation
 
-This Folder contains all the code files related to the Practicum paper in Documentation folder.
+## Include a research paper submitted as a thesis project at Dublin City University 2020-2021
+
+This Folder also contains all the code files related to the Practicum paper in Documentation folder.
 1. Practicum Movie Dataset
 In this .ipnyb file we use the Movie Reviews dataset shared in the Main page. We apply Machine Learning Algorithms i.e Naive Bayes, Logistic Regression and Support Vector Machines to the dataset to find the sentiment of a text, i.e. positive or negative.
 This is part of preliminary work to understand the algorithms better and work with text data.
